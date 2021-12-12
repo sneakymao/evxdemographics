@@ -1,0 +1,211 @@
+﻿DMA,city,state
+743,Anchorage,AK
+745,Fairbanks,AK
+747,Juneau,AK
+630,Birmingham (Ann & Tusc),AL
+606,Dothan,AL
+691,Huntsville - Decatur (Flor),AL
+686,Mobile - Pensacola (Ft Walt),AL
+698,Montgomery (Selma),AL
+670,Ft. Smith - Fay - Sprngdl - Rgrs,AR
+734,Jonesboro,AR
+693,Little Rock - Pine Bluff,AR
+753,Phoenix (Prescott),AZ
+789,Tucson (Sierra Vista),AZ
+771,Yuma - El Centro,AZ
+800,Bakersfield,CA
+868,Chico - Redding,CA
+802,Eureka,CA
+866,Fresno - Visalia,CA
+803,Los Angeles,CA
+828,Monterey - Salinas,CA
+804,Palm Springs,CA
+862,Sacramnto - Stktn - Modesto,CA
+825,San Diego,CA
+807,San Francisco - Oak - San Jose,CA
+855,Santabarbra - Sanmar - Sanluob,CA
+752,Colorado Springs - Pueblo,CO
+751,Denver,CO
+773,Grand Junction - Montrose,CO
+533,Hartford & New Haven,CT
+511,"Washington, DC (Hagrstwn)",DC
+550,Wilmington,DE
+571,Ft. Myers - Naples,FL
+592,Gainesville,FL
+561,Jacksonville,FL
+528,Miami - Ft. Lauderdale,FL
+534,Orlando - Daytona Bch - Melbrn,FL
+656,Panama City,FL
+538,"Rochester, NY",FL
+530,Tallahassee - Thomasville,FL
+539,Tampa - St. Pete (Sarasota),FL
+548,West Palm Beach - Ft. Pierce,FL
+525,"Albany, GA",GA
+524,Atlanta,GA
+520,Augusta,GA
+522,"Columbus, GA",GA
+503,Macon,GA
+507,Savannah,GA
+744,Honolulu,HI
+637,Cedar Rapids - Wtrlo - Iwc&Dub,IA
+679,Des Moines - Ames,IA
+631,Ottumwa - Kirksville,IA
+611,Rochestr - Mason City - Austin,IA
+624,Sioux City,IA
+757,Boise,ID
+758,Idaho Falls - Pocatello,ID
+711,Meridian,ID
+760,Twin Falls,ID
+648,Champaign & Sprngfld - Decatur,IL
+602,Chicago,IL
+682,Davenport - R. Island - Moline,IL
+675,Peoria - Bloomington,IL
+717,Quincy - Hannibal - Keokuk,IL
+610,Rockford,IL
+649,Evansville,IN
+509,Ft. Wayne,IN
+527,Indianapolis,IN
+582,"Lafayette, IN",IN
+588,South Bend - Elkhart,IN
+581,Terre Haute,IN
+605,Topeka,KS
+541,Lexington,KY
+529,Louisville,KY
+632,Paducah - Cape Girar D - Harsbg,KY
+678,Wichita - Hutchinson Plus,KY
+644,"Alexandria, LA",LA
+716,Baton Rouge,LA
+642,"Lafayette, LA",LA
+643,Lake Charles,LA
+628,Monroe - El Dorado,LA
+622,New Orleans,LA
+612,Shreveport,LA
+506,Boston (Manchester),MA
+521,Providence - New Bedford,MA
+543,Springfield - Holyoke,MA
+512,Baltimore,MD
+576,Salisbury,MD
+537,Bangor,ME
+500,Portland - Auburn,ME
+552,Presque Isle,ME
+583,Alpena,MI
+505,Detroit,MI
+563,Grand Rapids - Kalmzoo - B. Crk,MI
+551,Lansing,MI
+553,Marquette,MI
+540,Traverse City - Cadillac,MI
+676,Duluth - Superior,MN
+737,Mankato,MN
+613,Minneapolis - St. Paul,MN
+746,Biloxi - Gulfport,MO
+604,Columbia - Jefferson City,MO
+673,Columbus - Tupelo - West Point,MO
+513,Flint - Saginaw - Bay City,MO
+718,"Jackson, MS",MO
+603,Joplin - Pittsburg,MO
+616,Kansas City,MO
+619,"Springfield, MO",MO
+638,St. Joseph,MO
+609,St. Louis,MO
+710,Hattiesburg - Laurel,MS
+756,Billings,MT
+754,Butte - Bozeman,MT
+798,Glendive,MT
+755,Great Falls,MT
+766,Helena,MT
+762,Missoula,MT
+517,Charlotte,NC
+518,Greensboro - H. Point - W. Salem,NC
+545,Greenville - N. Bern - Washngtn,NC
+567,Greenvll - Spart - Ashevll - And,NC
+560,Raleigh - Durham (Fayetvlle),NC
+724,Fargo - Valley City,ND
+687,Minot - Bismarck - Dickinson,ND
+759,Cheyenne - Scottsbluf,NE
+722,Lincoln & Hstngs - Krny,NE
+740,North Platte,NE
+652,Omaha,NE
+790,Albuquerque - Santa Fe,NM
+765,El Paso (Las Cruces),NM
+839,Las Vegas,NV
+811,Reno,NV
+532,Albany - Schenectady - Troy,NY
+502,Binghamton,NY
+514,Buffalo,NY
+523,Burlington - Plattsburgh,NY
+565,Elmira (Corning),NY
+501,New York,NY
+555,Syracuse,NY
+549,Watertown,NY
+736,Bowling Green,OH
+515,Cincinnati,OH
+510,Cleveland - Akron (Canton),OH
+535,"Columbus, OH",OH
+542,Dayton,OH
+558,Lima,OH
+547,Toledo,OH
+554,Wheeling - Steubenville,OH
+536,Youngstown,OH
+596,Zanesville,OH
+650,Oklahoma City,OK
+657,Sherman - Ada,OK
+671,Tulsa,OK
+627,Wichita Falls & Lawton,OK
+821,"Bend, OR",OR
+801,Eugene,OR
+813,Medford - Klamath Falls,OR
+820,"Portland, OR",OR
+516,Erie,PA
+566,Harrisburg - Lncstr - Leb - York,PA
+574,Johnstown - Altoona,PA
+504,Philadelphia,PA
+508,Pittsburgh,PA
+577,Wilkes Barre - Scranton,PA
+519,"Charleston, SC",SC
+546,"Columbia, SC",SC
+647,Greenwood - Greenville,SC
+570,Myrtle Beach - Florence,SC
+764,Rapid City,SD
+725,Sioux Falls (Mitchell),SD
+575,Chattanooga,TN
+639,"Jackson, TN",TN
+557,Knoxville,TN
+640,Memphis,TN
+659,Nashville,TN
+531,"Tri - Cities, TN - VA",TN
+662,Abilene - Sweetwater,TX
+634,Amarillo,TX
+635,Austin,TX
+692,Beaumont - Port Arthur,TX
+600,Corpus Christi,TX
+623,Dallas - Ft. Worth,TX
+636,Harlingen - Wslco - Brnsvl - Mca,TX
+618,Houston,TX
+749,Laredo,TX
+651,Lubbock,TX
+633,Odessa - Midland,TX
+661,San Angelo,TX
+641,San Antonio,TX
+709,Tyler - Longview (Lfkn & Ncgd),TX
+626,Victoria,TX
+625,Waco - Temple - Bryan,TX
+770,Salt Lake City,UT
+526,Utica,UT
+584,Charlottesville,VA
+569,Harrisonburg,VA
+544,Norfolk - Portsmth - Newpt Nws,VA
+556,Richmond - Petersburg,VA
+573,Roanoke - Lynchburg,VA
+819,Seattle - Tacoma,WA
+881,Spokane,WA
+810,Yakima - Pasco - Rchlnd - Knnwck,WA
+658,Green Bay - Appleton,WI
+702,La Crosse - Eau Claire,WI
+669,Madison,WI
+617,Milwaukee,WI
+705,Wausau - Rhinelander,WI
+559,Bluefield - Beckley - Oak Hill,WV
+564,Charleston - Huntington,WV
+598,Clarksburg - Weston,WV
+597,Parkersburg,WV
+767,Casper - Riverton,WY
